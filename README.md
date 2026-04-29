@@ -1,27 +1,2 @@
 # thisisgame
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <title>?</title>
-  <style>
-    body {
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background: #000;
-    }
-    p {
-      color: #fff;
-      font-size: 3rem;
-      letter-spacing: 0.5rem;
-      font-family: serif;
-    }
-  </style>
-</head>
-<body>
-  <p>이서연</p>
-</body>
-</html>
+today dinner um...😐
